@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    color: #323f4b;
+    margin: 5px;
+    padding: 5px;
+    font-weight: bold;
+}
+
+.button {
+    color: white;
+    height: 30px;
+    width: 120px;
+}
+
+.card {
+    background-color: #0967d219;
+    height: 80px;
+    width: 50px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.sai {
+    color: black;
+    font-family: "Roboto";
+    background-color: #0967d219;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+
+
+}
+
+.i1 {
+    background-color: #3ebd93;
+    height: 120px;
+    width: 120px;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 10px;
+    color: white;
+
+
+}
+
+.i2 {
+    background-color: #e668a7;
+    height: 120px;
+    width: 120px;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 10px;
+    color: white;
+
+}
+
+.i3 {
+    background-color: #a368fc;
+    height: 120px;
+    width: 120px;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 10px;
+    color: white;
+}
+
+.s {
+    margin: 5px;
+    padding: 5px;
+}
+
+.la {
+    background-color: #e12d3919;
+}
+
+.p {
+    font-weight: 500;
+}
